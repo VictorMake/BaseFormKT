@@ -372,6 +372,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CustomControls\StageGrid.ico" />
+    <Content Include="Git.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
